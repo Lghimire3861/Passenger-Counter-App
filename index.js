@@ -21,6 +21,12 @@ function save() {
     count = 0
 }
 
+//test comment
+
+function test(){
+    console.log("this is a test");
+}
+
 
 
 
